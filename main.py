@@ -5,5 +5,9 @@ def main():
     print("Surveillance du systeme demarree")
 
 
+def calcule(a , b):
+    return a + b
+
+
 if __name__=="__main__":
     main()
