@@ -2,7 +2,7 @@
 
 def main():
     print("system monitoring initialiser version 1.0.0")
-    print("Surveillance du systeme demarree")
+    print("Surveillance CPU demarree")
 
 
 def calcule(a , b):
