@@ -9,7 +9,7 @@ def main():
 def calcule(a , b):
     return a + b
 
-def multiplicaion():
+def multiplicaion(a , b):
     return a * b
 
 
