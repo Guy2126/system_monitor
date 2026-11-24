@@ -7,6 +7,7 @@ def main():
     print("Surveillance cpu demarree")
     print("surveillance reseau activee")
     print("Surveillance reseau activee")
+    print("Surveillance memoir activee")
 def calcule(a , b):
     return a + b
 
